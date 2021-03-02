@@ -17,3 +17,6 @@ NB : to clear the screen (ctl + l)
 
 10/ git commit --amend (modifier un commit)
 
+11/ git commit --amend --no-edit  (no updates !!)
+
+12/
