@@ -1,0 +1,5 @@
+set NLS_LANG=AMERICAN_AMERICA.AL32UTF8
+
+OFIDREP.exe -options=FFFEED_REP_18-18.cfg
+
+pause

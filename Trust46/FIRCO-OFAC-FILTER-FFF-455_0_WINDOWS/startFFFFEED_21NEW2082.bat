@@ -1,0 +1,6 @@
+
+set NLS_LANG=AMERICAN_AMERICA.AL32UTF8
+
+FFFFeed.exe -options=FFFEED_CIF_STATE2082.cfg
+
+pause

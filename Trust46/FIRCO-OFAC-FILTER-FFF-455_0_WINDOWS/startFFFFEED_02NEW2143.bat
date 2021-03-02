@@ -1,0 +1,5 @@
+set NLS_LANG=AMERICAN_AMERICA.AL32UTF8
+
+FFFFeed.exe -options=FFFEED_XML_02LIST2143.cfg
+
+pause

@@ -1,0 +1,141 @@
+FFFFEED 2016/05/26 18:12:00 -I- ----------------------------------------------
+FFFFEED 2016/05/26 18:12:00 -I- FFF-Verify Batch Feeder To Rdbms
+FFFFEED 2016/05/26 18:12:00 -I- ----------------------------------------------
+FFFFEED 2016/05/26 18:12:00 -I- Start.
+FFFFEED 2016/05/26 18:12:00 -I- *** Version:  V4.5.5.0 / 25/05/2016 10:01:02
+FFFFEED 2016/05/26 18:12:00 -I- *** Platform: WIN32 / TCPIP/SOCKET
+FFFFEED 2016/05/26 18:12:00 -I- *** Architecture: 32 bits
+FFFFEED 2016/05/26 18:12:00 -I- FFF-Verify Rdbms:         TRUST_455_500
+FFFFEED 2016/05/26 18:12:00 -I- FFF-Verify Rdbms User:    sa
+FFFFEED 2016/05/26 18:12:00 -I- Unit attached to hits:    CRYPTED_4
+FFFFEED 2016/05/26 18:12:00 -I- Hits file to load:        HitsListCrypted.xml
+FFFFEED 2016/05/26 18:12:00 -I- Hits file binary:         No
+FFFFEED 2016/05/26 18:12:00 -I- Force update of fields:   Yes
+FFFFEED 2016/05/26 18:12:00 -I- Formats file:             C:\QA\TEST_TRUST_455_WINDOWS\FIRCO-OFAC-FILTER-FFF-455_0_WINDOWS\CUSTOMER.ffm
+FFFFEED 2016/05/26 18:12:00 -I- Format to be applied:     CUSTOMER
+FFFFEED 2016/05/26 18:12:00 -I- Convert from ebcdic:      No
+FFFFEED 2016/05/26 18:12:00 -I- Temporary file:           
+FFFFEED 2016/05/26 18:12:00 -I- Classic merge mode:       0
+FFFFEED 2016/05/26 18:12:00 -I- Merge mode algo:          FULL
+FFFFEED 2016/05/26 18:12:00 -I- Initialising
+FFFFEED 2016/05/26 18:12:00 -I- Initialising done.
+FFFFEED 2016/05/26 18:12:00 -I- Loading formats file: CUSTOMER
+FFFFEED 2016/05/26 18:12:00 -I- Formats loaded: 1
+FFFFEED 2016/05/26 18:12:00 -I- Searching for format: CUSTOMER
+FFFFEED 2016/05/26 18:12:00 -I- Format found.
+FFFFEED 2016/05/26 18:12:00 -I- Using XML parser: 'FIRCO'
+FFFFEED 2016/05/26 18:12:00 -I- Log properly set.
+FFFFEED 2016/05/26 18:12:00 -I- Database is opened.
+FFFFEED 2016/05/26 18:12:00 -I- Loading hits file
+FFFFEED 2016/05/26 18:12:00 -I- Loading done.
+FFFFEED 2016/05/26 18:12:00 -I- 202 hits to load into database
+FFFFEED 2016/05/26 18:12:00 -I- Loading hits from file 'HitsListCrypted.xml' into the database
+FFFFEED 2016/05/26 18:12:00 -I- Connecting Firco Files Filter Verify Database (TRUST_455_500)...
+FFFFEED 2016/05/26 18:12:00 -I- Log properly set.
+FFFFEED 2016/05/26 18:12:00 -I- Database is opened.
+FFFFEED 2016/05/26 18:12:00 -I- Inserting hits: 0% processed (0 hits)
+FFFFEED 2016/05/26 18:12:00 -I- Inserting Records: 0 inserted / 0 updated / 0 unchanged / Total 0
+FFFFEED 2016/05/26 18:12:02 -I- Inserting hits: 49% processed (100 hits)
+FFFFEED 2016/05/26 18:12:02 -I- Inserting Records: 65 inserted / 0 updated / 0 unchanged / Total 65
+FFFFEED 2016/05/26 18:12:03 -I- Insertion/Update completed: 100% processed (202 hits)
+FFFFEED 2016/05/26 18:12:03 -I- Records: 131 inserted / 0 updated / 0 unchanged / Total 131
+FFFFEED 2016/05/26 18:12:03 -I- 0 record renew (accounted in the updated records)
+FFFFEED 2016/05/26 18:12:03 -I- DB Commit.
+FFFFEED 2016/05/26 18:12:03 -I- Loading stats into the database
+FFFFEED 2016/05/26 18:12:03 -I- Log properly set.
+FFFFEED 2016/05/26 18:12:03 -I- Database is opened.
+FFFFEED 2016/05/26 18:12:03 -I- Process completed successfully.
+FFFFEED 2016/05/30 12:17:29 -I- ----------------------------------------------
+FFFFEED 2016/05/30 12:17:29 -I- FFF-Verify Batch Feeder To Rdbms
+FFFFEED 2016/05/30 12:17:29 -I- ----------------------------------------------
+FFFFEED 2016/05/30 12:17:29 -I- Start.
+FFFFEED 2016/05/30 12:17:29 -I- *** Version:  V4.5.5.0 / 25/05/2016 10:01:02
+FFFFEED 2016/05/30 12:17:29 -I- *** Platform: WIN32 / TCPIP/SOCKET
+FFFFEED 2016/05/30 12:17:29 -I- *** Architecture: 32 bits
+FFFFEED 2016/05/30 12:17:29 -I- FFF-Verify Rdbms:         TRUST_455_500
+FFFFEED 2016/05/30 12:17:29 -I- FFF-Verify Rdbms User:    sa
+FFFFEED 2016/05/30 12:17:29 -I- Unit attached to hits:    CRYPTED_4
+FFFFEED 2016/05/30 12:17:29 -I- Hits file to load:        HitsListCrypted.xml
+FFFFEED 2016/05/30 12:17:29 -I- Hits file binary:         No
+FFFFEED 2016/05/30 12:17:29 -I- Force update of fields:   Yes
+FFFFEED 2016/05/30 12:17:29 -I- Formats file:             C:\QA\TEST_TRUST_455_WINDOWS\FIRCO-OFAC-FILTER-FFF-455_0_WINDOWS\CUSTOMER.ffm
+FFFFEED 2016/05/30 12:17:29 -I- Format to be applied:     CUSTOMER
+FFFFEED 2016/05/30 12:17:29 -I- Convert from ebcdic:      No
+FFFFEED 2016/05/30 12:17:29 -I- Temporary file:           
+FFFFEED 2016/05/30 12:17:29 -I- Classic merge mode:       0
+FFFFEED 2016/05/30 12:17:29 -I- Merge mode algo:          FULL
+FFFFEED 2016/05/30 12:17:29 -I- Initialising
+FFFFEED 2016/05/30 12:17:29 -I- Initialising done.
+FFFFEED 2016/05/30 12:17:29 -I- Loading formats file: CUSTOMER
+FFFFEED 2016/05/30 12:17:29 -I- Formats loaded: 1
+FFFFEED 2016/05/30 12:17:29 -I- Searching for format: CUSTOMER
+FFFFEED 2016/05/30 12:17:29 -I- Format found.
+FFFFEED 2016/05/30 12:17:29 -I- Using XML parser: 'FIRCO'
+FFFFEED 2016/05/30 12:17:29 -I- Log properly set.
+FFFFEED 2016/05/30 12:17:29 -I- Database is opened.
+FFFFEED 2016/05/30 12:17:29 -I- Loading hits file
+FFFFEED 2016/05/30 12:17:29 -I- Loading done.
+FFFFEED 2016/05/30 12:17:29 -I- 202 hits to load into database
+FFFFEED 2016/05/30 12:17:29 -I- Loading hits from file 'HitsListCrypted.xml' into the database
+FFFFEED 2016/05/30 12:17:29 -I- Connecting Firco Files Filter Verify Database (TRUST_455_500)...
+FFFFEED 2016/05/30 12:17:29 -I- Log properly set.
+FFFFEED 2016/05/30 12:17:29 -I- Database is opened.
+FFFFEED 2016/05/30 12:17:29 -I- Inserting hits: 0% processed (0 hits)
+FFFFEED 2016/05/30 12:17:29 -I- Inserting Records: 0 inserted / 0 updated / 0 unchanged / Total 0
+FFFFEED 2016/05/30 12:17:29 -I- Inserting hits: 49% processed (100 hits)
+FFFFEED 2016/05/30 12:17:29 -I- Inserting Records: 0 inserted / 0 updated / 65 unchanged / Total 65
+FFFFEED 2016/05/30 12:17:29 -I- Insertion/Update completed: 100% processed (202 hits)
+FFFFEED 2016/05/30 12:17:29 -I- Records: 0 inserted / 0 updated / 131 unchanged / Total 131
+FFFFEED 2016/05/30 12:17:29 -I- 0 record renew (accounted in the updated records)
+FFFFEED 2016/05/30 12:17:29 -I- DB Commit.
+FFFFEED 2016/05/30 12:17:29 -I- Loading stats into the database
+FFFFEED 2016/05/30 12:17:29 -I- Log properly set.
+FFFFEED 2016/05/30 12:17:29 -I- Database is opened.
+FFFFEED 2016/05/30 12:17:29 -I- Process completed successfully.
+FFFFEED 2016/05/30 12:27:00 -I- ----------------------------------------------
+FFFFEED 2016/05/30 12:27:00 -I- FFF-Verify Batch Feeder To Rdbms
+FFFFEED 2016/05/30 12:27:00 -I- ----------------------------------------------
+FFFFEED 2016/05/30 12:27:00 -I- Start.
+FFFFEED 2016/05/30 12:27:00 -I- *** Version:  V4.5.5.0 / 25/05/2016 10:01:02
+FFFFEED 2016/05/30 12:27:00 -I- *** Platform: WIN32 / TCPIP/SOCKET
+FFFFEED 2016/05/30 12:27:00 -I- *** Architecture: 32 bits
+FFFFEED 2016/05/30 12:27:00 -I- FFF-Verify Rdbms:         TRUST_455_500
+FFFFEED 2016/05/30 12:27:00 -I- FFF-Verify Rdbms User:    sa
+FFFFEED 2016/05/30 12:27:00 -I- Unit attached to hits:    CRYPTED_4
+FFFFEED 2016/05/30 12:27:00 -I- Hits file to load:        HitsListCrypted.xml
+FFFFEED 2016/05/30 12:27:00 -I- Hits file binary:         No
+FFFFEED 2016/05/30 12:27:00 -I- Force update of fields:   Yes
+FFFFEED 2016/05/30 12:27:00 -I- Formats file:             C:\QA\TEST_TRUST_455_WINDOWS\FIRCO-OFAC-FILTER-FFF-455_0_WINDOWS\CUSTOMER.ffm
+FFFFEED 2016/05/30 12:27:00 -I- Format to be applied:     CUSTOMER
+FFFFEED 2016/05/30 12:27:00 -I- Convert from ebcdic:      No
+FFFFEED 2016/05/30 12:27:00 -I- Temporary file:           
+FFFFEED 2016/05/30 12:27:00 -I- Classic merge mode:       0
+FFFFEED 2016/05/30 12:27:00 -I- Merge mode algo:          FULL
+FFFFEED 2016/05/30 12:27:00 -I- Initialising
+FFFFEED 2016/05/30 12:27:00 -I- Initialising done.
+FFFFEED 2016/05/30 12:27:00 -I- Loading formats file: CUSTOMER
+FFFFEED 2016/05/30 12:27:00 -I- Formats loaded: 1
+FFFFEED 2016/05/30 12:27:00 -I- Searching for format: CUSTOMER
+FFFFEED 2016/05/30 12:27:00 -I- Format found.
+FFFFEED 2016/05/30 12:27:00 -I- Using XML parser: 'FIRCO'
+FFFFEED 2016/05/30 12:27:00 -I- Log properly set.
+FFFFEED 2016/05/30 12:27:00 -I- Database is opened.
+FFFFEED 2016/05/30 12:27:00 -I- Loading hits file
+FFFFEED 2016/05/30 12:27:00 -I- Loading done.
+FFFFEED 2016/05/30 12:27:00 -I- 202 hits to load into database
+FFFFEED 2016/05/30 12:27:00 -I- Loading hits from file 'HitsListCrypted.xml' into the database
+FFFFEED 2016/05/30 12:27:00 -I- Connecting Firco Files Filter Verify Database (TRUST_455_500)...
+FFFFEED 2016/05/30 12:27:00 -I- Log properly set.
+FFFFEED 2016/05/30 12:27:00 -I- Database is opened.
+FFFFEED 2016/05/30 12:27:00 -I- Inserting hits: 0% processed (0 hits)
+FFFFEED 2016/05/30 12:27:00 -I- Inserting Records: 0 inserted / 0 updated / 0 unchanged / Total 0
+FFFFEED 2016/05/30 12:27:00 -I- Inserting hits: 49% processed (100 hits)
+FFFFEED 2016/05/30 12:27:00 -I- Inserting Records: 0 inserted / 0 updated / 65 unchanged / Total 65
+FFFFEED 2016/05/30 12:27:00 -I- Insertion/Update completed: 100% processed (202 hits)
+FFFFEED 2016/05/30 12:27:00 -I- Records: 0 inserted / 0 updated / 131 unchanged / Total 131
+FFFFEED 2016/05/30 12:27:00 -I- 0 record renew (accounted in the updated records)
+FFFFEED 2016/05/30 12:27:00 -I- DB Commit.
+FFFFEED 2016/05/30 12:27:00 -I- Loading stats into the database
+FFFFEED 2016/05/30 12:27:00 -I- Log properly set.
+FFFFEED 2016/05/30 12:27:00 -I- Database is opened.
+FFFFEED 2016/05/30 12:27:01 -I- Process completed successfully.

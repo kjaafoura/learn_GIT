@@ -1,0 +1,5 @@
+set NLS_LANG=AMERICAN_AMERICA.AL32UTF8
+
+FFFFeed.exe -options=Test2161FMT1.cfg
+
+pause

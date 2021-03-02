@@ -1,0 +1,5 @@
+set NLS_LANG=AMERICAN_AMERICA.AL32UTF8
+
+FFFWDog.exe -options=FFFEED_REP_FFFWDOG.cfg
+
+pause

@@ -1,0 +1,6 @@
+"set NLS_LANG=AMERICAN_AMERICA.AL32UTF8
+
+FFFFeed.exe -options=FFFEED_MH_PP2164.cfg
+
+
+pause"

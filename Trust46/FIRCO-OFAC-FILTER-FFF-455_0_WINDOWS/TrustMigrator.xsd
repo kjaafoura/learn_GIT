@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="TrustMigration">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Units" minOccurs="0" />
+        <xs:element ref="HitsRenewPattern" minOccurs="0" />
+        <xs:element ref="CifRenewPattern" minOccurs="0" />
+      </xs:sequence>
+      <xs:attribute name="UnitType" use="required" type="xs:string"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Units" >
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="Unit"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Unit" type="xs:string"/>
+  <xs:element name="HitsRenewPattern" >
+    <xs:complexType>
+      <xs:attribute name="Value" use="required" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CifRenewPattern" >
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Formats" minOccurs="1" />
+      </xs:sequence>
+      <xs:attribute name="Value" use="required" type="xs:string"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Formats">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Format" minOccurs="1"  maxOccurs="10" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Format" >
+    <xs:complexType>
+      <xs:attribute name="EndDate" type="xs:date"/>
+      <xs:attribute name="File" use="required" type="xs:string"/>
+      <xs:attribute name="Name" use="required" type="xs:string"/>
+      <xs:attribute name="StartDate" type="xs:date"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
