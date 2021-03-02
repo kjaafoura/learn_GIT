@@ -19,4 +19,6 @@ NB : to clear the screen (ctl + l)
 
 11/ git commit --amend --no-edit  (no updates !!)
 
-12/
+12/git add // git restore --staged file  ( don't include file in commit)
+
+13/git restore file // enlever les modifications //not possible to restore after and to rereive last status 
