@@ -1,7 +1,0 @@
-set NLS_LANG=AMERICAN_AMERICA.AL32UTF8
-
-FFFFeed.exe -options=FFFEED_CIF_ACCOUNT2114.cfg
-
-pause
-
-

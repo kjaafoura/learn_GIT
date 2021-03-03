@@ -1,5 +1,0 @@
-"set NLS_LANG=AMERICAN_AMERICA.AL32UTF8
-
-FFFFeed.exe -options=FFFEED_MH_KEYWORDS2163.cfg
-
-pause"

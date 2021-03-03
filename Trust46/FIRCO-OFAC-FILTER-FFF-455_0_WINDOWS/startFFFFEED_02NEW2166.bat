@@ -1,6 +1,0 @@
-
-set NLS_LANG=AMERICAN_AMERICA.AL32UTF8
-
-FFFFeed.exe -options=FFFEED_MH2_2166.cfg
-
-pause
